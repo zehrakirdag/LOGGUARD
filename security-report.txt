@@ -1,1 +1,15 @@
+===== LOGGUARD SECURITY REPORT =====
 
+Total Login Attempts: 8
+Successful Logins: 3
+Failed Logins: 5
+
+===== SECURITY ANALYSIS =====
+Total Failed IP Records: 7
+Suspicious IPs Detected: 1
+Suspicious IP: 192.168.1.10
+
+Threat Type: Possible Brute-Force Attack
+Detection Window: 5 minutes
+
+===== END OF REPORT =====
